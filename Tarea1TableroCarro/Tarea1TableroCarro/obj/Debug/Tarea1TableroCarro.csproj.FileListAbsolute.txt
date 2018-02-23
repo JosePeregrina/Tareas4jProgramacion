@@ -1,0 +1,10 @@
+C:\Users\Cheliz\source\repos\1P\Tareas\Tarea1TableroCarro\Tarea1TableroCarro\bin\Debug\Tarea1TableroCarro.exe.config
+C:\Users\Cheliz\source\repos\1P\Tareas\Tarea1TableroCarro\Tarea1TableroCarro\bin\Debug\Tarea1TableroCarro.exe
+C:\Users\Cheliz\source\repos\1P\Tareas\Tarea1TableroCarro\Tarea1TableroCarro\bin\Debug\Tarea1TableroCarro.pdb
+C:\Users\Cheliz\source\repos\1P\Tareas\Tarea1TableroCarro\Tarea1TableroCarro\obj\Debug\Tarea1TableroCarro.csprojResolveAssemblyReference.cache
+C:\Users\Cheliz\source\repos\1P\Tareas\Tarea1TableroCarro\Tarea1TableroCarro\obj\Debug\Tarea1TableroCarro.Form1.resources
+C:\Users\Cheliz\source\repos\1P\Tareas\Tarea1TableroCarro\Tarea1TableroCarro\obj\Debug\Tarea1TableroCarro.Properties.Resources.resources
+C:\Users\Cheliz\source\repos\1P\Tareas\Tarea1TableroCarro\Tarea1TableroCarro\obj\Debug\Tarea1TableroCarro.csproj.GenerateResource.Cache
+C:\Users\Cheliz\source\repos\1P\Tareas\Tarea1TableroCarro\Tarea1TableroCarro\obj\Debug\Tarea1TableroCarro.csproj.CoreCompileInputs.cache
+C:\Users\Cheliz\source\repos\1P\Tareas\Tarea1TableroCarro\Tarea1TableroCarro\obj\Debug\Tarea1TableroCarro.exe
+C:\Users\Cheliz\source\repos\1P\Tareas\Tarea1TableroCarro\Tarea1TableroCarro\obj\Debug\Tarea1TableroCarro.pdb
