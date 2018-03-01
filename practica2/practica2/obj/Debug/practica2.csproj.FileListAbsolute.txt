@@ -1,0 +1,10 @@
+C:\Users\Cheliz\source\4taParcial\1P\practica2\practica2\bin\Debug\practica2.exe.config
+C:\Users\Cheliz\source\4taParcial\1P\practica2\practica2\bin\Debug\practica2.exe
+C:\Users\Cheliz\source\4taParcial\1P\practica2\practica2\bin\Debug\practica2.pdb
+C:\Users\Cheliz\source\4taParcial\1P\practica2\practica2\obj\Debug\practica2.csprojResolveAssemblyReference.cache
+C:\Users\Cheliz\source\4taParcial\1P\practica2\practica2\obj\Debug\practica2.Form1.resources
+C:\Users\Cheliz\source\4taParcial\1P\practica2\practica2\obj\Debug\practica2.Properties.Resources.resources
+C:\Users\Cheliz\source\4taParcial\1P\practica2\practica2\obj\Debug\practica2.csproj.GenerateResource.Cache
+C:\Users\Cheliz\source\4taParcial\1P\practica2\practica2\obj\Debug\practica2.csproj.CoreCompileInputs.cache
+C:\Users\Cheliz\source\4taParcial\1P\practica2\practica2\obj\Debug\practica2.exe
+C:\Users\Cheliz\source\4taParcial\1P\practica2\practica2\obj\Debug\practica2.pdb
